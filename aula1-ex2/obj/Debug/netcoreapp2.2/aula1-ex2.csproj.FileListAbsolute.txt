@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\bin\Debug\netcoreapp2.2\aula1-ex2.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\bin\Debug\netcoreapp2.2\aula1-ex2.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\bin\Debug\netcoreapp2.2\aula1-ex2.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\bin\Debug\netcoreapp2.2\aula1-ex2.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\bin\Debug\netcoreapp2.2\aula1-ex2.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\obj\Debug\netcoreapp2.2\aula1-ex2.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\obj\Debug\netcoreapp2.2\aula1-ex2.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\obj\Debug\netcoreapp2.2\aula1-ex2.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\obj\Debug\netcoreapp2.2\aula1-ex2.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\obj\Debug\netcoreapp2.2\aula1-ex2.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula1-ex2\obj\Debug\netcoreapp2.2\aula1-ex2.pdb
