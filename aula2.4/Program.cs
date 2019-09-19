@@ -14,7 +14,6 @@ namespace aula2._4
             if(valor > 100 && valor < 1000){
                 valor = valor - (valor * 0.15);
             }
-
             Console.WriteLine($"O valor a ser pago é de R${valor}.");
         }
     }
