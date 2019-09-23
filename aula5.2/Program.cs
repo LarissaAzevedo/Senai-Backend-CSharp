@@ -19,15 +19,10 @@ namespace aula5._2 {
                 Console.WriteLine ("Vetor 2 - Digite um numero: ");
                 vetor2[i] = int.Parse (Console.ReadLine ());
             }
-            Console.WriteLine ("Fim vetor 2");
+            Console.WriteLine ("Fim vetor 2");            
 
-            //adiciona o conteúdo do primeiro vetor no terceiro
             for (int i = 0; i <= 9; i++) {
                 vetor3[i] = vetor1[i];
-            }
-
-            //adiciona o conteúdo do segundo vetor no terceiro - adicionar o TAMANHO já ocupado no vetor
-            for (int i = 0; i <= 9; i++) {
                 vetor3[i + 10] = vetor2[i];
             }
 

@@ -48,11 +48,11 @@ namespace aula3.projeto
             if(venda == true && doacao == true){
                 resposta = "Seu produto será encaminhado para venda e para doação.";
             }else if(venda == true && doacao == false){
-                resposta = "Seu produto será encaminhado para venda apenas.";
+                resposta = "Seu produto será encaminhado para venda apenas.\n";
             }else if(venda == false && doacao == true){
-                resposta = "Seu produto será encaminhado para doação apenas.";
+                resposta = "Seu produto será encaminhado para doação apenas.\n";
             } else{
-                resposta = "Seu produto não será encaminhado.";
+                resposta = "Seu produto não será encaminhado.\n";
             }
 
             Console.WriteLine(resposta);

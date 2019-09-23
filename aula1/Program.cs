@@ -9,13 +9,13 @@ namespace aula1
             //somente declaramos, sem atribuição de valor
             int num1;
             //declarada e com valor atribuído
-            int num2 = 5;
+            //int num2 = 5;
             //declaradas diversas variáveis de mesmo tipo, com ou sem valor atribuido
             int num3, num4;
             //variavel do tipo decimal(real)
             float media;
             //variavel de retorno verdadeiro ou falso - tipo lógico
-            bool resultado = false;
+            //bool resultado = false;
             //variavel do tipo texto
             string nomeAluno;
             //escreve em uma linha e quebra-a

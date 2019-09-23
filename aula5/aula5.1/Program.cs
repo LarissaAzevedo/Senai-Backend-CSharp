@@ -3,6 +3,7 @@
 namespace aula5._1 {
     class Program {
         static void Main (string[] args) {
+
             string[] series1 = new string[10];
             string[] series2 = new string[10];
 
