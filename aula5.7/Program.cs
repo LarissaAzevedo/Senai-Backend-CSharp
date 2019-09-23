@@ -12,6 +12,7 @@ namespace aula5._7 {
                 Console.WriteLine ("Insira um valor: ");
                 vetor1[i] = int.Parse (Console.ReadLine ());
 
+                //pega o primeiro número e independente, coloca ele como o maior
                 if(i == 0){
                     maior = vetor1[i];
                 }
