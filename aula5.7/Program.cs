@@ -13,7 +13,7 @@ namespace aula5._7 {
                 vetor1[i] = int.Parse (Console.ReadLine ());
 
                 //pega o primeiro número e independente, coloca ele como o maior
-                if(i == 0){
+                if (i == 0) {
                     maior = vetor1[i];
                 }
 
@@ -22,8 +22,9 @@ namespace aula5._7 {
                     maior = vetor1[i];
                 }
             }
-            Console.WriteLine(maior + " é o maior número, índice =  " + indice);
-            Console.WriteLine($"{maior} é o maior valor, índice {indice}");
+
+            Console.WriteLine (maior + " é o maior número, índice =  " + indice);
+            Console.WriteLine ($"{maior} é o maior valor, índice {indice}");
         }
     }
 }
