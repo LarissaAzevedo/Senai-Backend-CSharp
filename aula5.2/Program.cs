@@ -19,7 +19,8 @@ namespace aula5._2 {
                 Console.WriteLine ("Vetor 2 - Digite um numero: ");
                 vetor2[i] = int.Parse (Console.ReadLine ());
             }
-            Console.WriteLine ("Fim vetor 2");            
+            
+            Console.WriteLine ("Fim vetor 2");
 
             for (int i = 0; i <= 9; i++) {
                 vetor3[i] = vetor1[i];
