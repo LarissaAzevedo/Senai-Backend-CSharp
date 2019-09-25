@@ -10,7 +10,7 @@ namespace aula6.cnpj {
             // 14.572.457.0001-85
         }
 
-        static bool ValidaCNPJ (double[] cnpjUsuario) {
+        static bool ValidaCNPJ (string cnpjUsuario) {
             bool resultado;
             int[] v1 = { 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
             int[] v2 = { 6, 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
@@ -40,9 +40,9 @@ namespace aula6.cnpj {
             }
 
             //digito verificador II
-            int cnpjNumero2 = cnpjUsuario.ToString (0, 13);
+            int cnpjNumero2 = int.Parse(cnpjUsuario.Substring(0, 13));
 
-            calculoDV2 += int.Parse (cnpjNumero2[i]) * v2[i];
+            calculoDV2 += int.Parse (cnpjNumero2) * v2[i];
 
             resto2 = calculoDV2 % 11;
             if (resto2 == 0 || resto2 == 1) {

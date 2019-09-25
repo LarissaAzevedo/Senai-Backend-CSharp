@@ -59,7 +59,7 @@ namespace aula6.cpf {
                 digitoV2 = calculo.ToString ();
             }
 
-            if (digitoV2 == cpfusuario[9].ToString ()) {
+            if (digitoV2 == cpfusuario[10].ToString ()) {
                 resultado = true;
             }
 
