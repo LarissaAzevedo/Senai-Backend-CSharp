@@ -12,16 +12,19 @@ namespace aula5._4 {
                 Console.WriteLine ("Digite um nome de série: ");
                 a[i] = Console.ReadLine ();
             }
+
             //popula o segundo vetor
             for (int i = 0; i <= 14; i++) {
                 Console.WriteLine ("Digite um nome de filme: ");
                 b[i] = Console.ReadLine ();
             }
+
             //popula o terceiro vetor
             for (int i = 0; i <= 14; i++) {
                 c[i] = a[i];
                 
             }
+            
             for (int i = 0; i <= 14; i++) { 
                 c[i + 15] = b[i];
             }
