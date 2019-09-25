@@ -3,6 +3,7 @@
 namespace aula5._7 {
     class Program {
         static void Main (string[] args) {
+            
             int[] vetor1 = new int[10];
             int indice = 0;
             int maior = 0;
