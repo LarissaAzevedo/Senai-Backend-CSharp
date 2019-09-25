@@ -42,7 +42,7 @@ namespace aula6.cnpj {
             //digito verificador II
             int cnpjNumero2 = int.Parse(cnpjUsuario.Substring(0, 13));
 
-            calculoDV2 += int.Parse (cnpjNumero2) * v2[i];
+            calculoDV2 += int.Parse (cnpjNumero2[i]) * v2[i];
 
             resto2 = calculoDV2 % 11;
             if (resto2 == 0 || resto2 == 1) {
