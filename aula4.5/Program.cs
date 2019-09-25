@@ -3,6 +3,7 @@
 namespace aula4._5 {
     class Program {
         static void Main (string[] args) {
+            
             string nome = "";
             float salario = 0;
             float media = 0;
