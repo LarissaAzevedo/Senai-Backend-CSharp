@@ -10,8 +10,11 @@ namespace aula4._4 {
             Console.WriteLine ("Serão mostrados os valores positivos.");
 
             for (int i = 0; i <= 4; i++) {
+                
                 Console.WriteLine ("Digite um valor");
+
                 n = int.Parse (Console.ReadLine ());
+
                 if (n > 0) {
                     Console.Write (n + " é maior que 0\n");
                     cont++;
