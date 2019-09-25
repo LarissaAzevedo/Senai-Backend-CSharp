@@ -2,6 +2,7 @@
 
 namespace aula6 {
     class Program {
+        
         static void Main (string[] args) {
             //chamando a primeira função que dá BOM DIA
             Console.WriteLine (BomDia ());
@@ -10,27 +11,29 @@ namespace aula6 {
             ImprimirDataHora ();
 
             //chamamos nossa função que calcula a média
-            double[] numeros = { 2, 5, 2 , 8, 7, 6, 8, 8};
+            double[] numeros = { 2, 5, 2, 8, 7, 6, 8, 8 };
 
             Console.WriteLine ("Média do vetor: " + CalculaMedia (numeros));
 
-            Console.WriteLine("Soma dos valores: "+ SomaValores(numeros));
+            Console.WriteLine ("Soma dos valores: " + SomaValores (numeros));
         }
+
 
         /// <summary>
         /// função que soma valores de um vetor
         /// </summary>
         /// <param name="valores">vetor de valores</param>
         /// <returns>soma dos valores do vetor</returns>
-        static double SomaValores(double[] valores){
+        static double SomaValores (double[] valores) {
             double result = 0;
 
-            for(int i = 0; i < valores.Length; i++){
+            for (int i = 0; i < valores.Length; i++) {
                 result += valores[i];
             }
 
             return result;
         }
+
 
         /// <summary>
         /// função que escreve bom dia para o usuário
