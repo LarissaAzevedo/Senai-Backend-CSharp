@@ -9,6 +9,7 @@ namespace aula5._1 {
                 Console.WriteLine ("Digite um valor: ");
                 valores[i] = int.Parse (Console.ReadLine ());
             }
+        
 
             for (int i = 0; i <= 9; i++) {
                 Console.WriteLine ("O valor do índice " + i + " é " + valores[i]);
