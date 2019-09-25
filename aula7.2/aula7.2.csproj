@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>aula7._2</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Spire.Doc" Version="7.9.0"/>
+    <PackageReference Include="Spire.PDF" Version="5.9.6"/>
+  </ItemGroup>
+</Project>
