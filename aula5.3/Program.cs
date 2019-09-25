@@ -22,6 +22,7 @@ namespace aula5._3 {
                 Console.WriteLine ("Insira o preço do produto: ");
                 PrecoProduto[i] = float.Parse (Console.ReadLine ());
             }
+            
             for (int i = 0; i <= 2; i++) {
                 Console.WriteLine ($"Nome do produto: {NomeProduto[i]}. Cor: {CorProduto[i]}. Tamanho: {TamanhoProduto[i]}. Preço: {PrecoProduto[i]}\n");
             }
