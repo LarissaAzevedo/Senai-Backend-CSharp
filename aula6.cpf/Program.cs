@@ -10,6 +10,11 @@ namespace aula6.cpf {
             Console.WriteLine (ValidaCPF (cpf));
         }
 
+        /// <summary>
+        /// Função para validar o CPF
+        /// </summary>
+        /// <param name="cpfusuario">CPF do usuário</param>
+        /// <returns>Se cpf é valido ou não</returns>
         static bool ValidaCPF (string cpfusuario) {
             int[] v1 = { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
 
