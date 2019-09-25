@@ -16,8 +16,6 @@ namespace aula4._2 {
             Console.WriteLine ($"\nEsta é a tabuada de {n} - feita com for");
 
             //Tabuada - for
-            
-
             for (i = 0; i < 10; i++) {
                 cont++;
                 Console.WriteLine (n + " X " + cont + " = " + (cont * n));
