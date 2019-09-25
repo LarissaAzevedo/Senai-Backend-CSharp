@@ -29,8 +29,10 @@ namespace aula4._6 {
 
             Console.WriteLine ("Sequencia de Fibonacci - Com while");
             while (j <= 10) {
+
                 if (atual == 0) {
                     Console.WriteLine (fn2);
+                    
                 } else {
 
                     ant2 = atual2;
