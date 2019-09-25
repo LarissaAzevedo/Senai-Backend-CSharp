@@ -10,10 +10,13 @@ namespace aula4._3 {
             cont = int.Parse (Console.ReadLine ());
 
             do {
+
                 if (n % 5 == 0) {
+                    
                     Console.WriteLine (n);
                 }
                 n++;
+
             } while (n <= cont);
 
         }
