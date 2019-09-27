@@ -7,7 +7,6 @@ namespace aula9._2 {
         }
 
         static void DiaDaSemana () {
-
             Console.WriteLine(DateTime.Now.DayOfWeek);
         }
         
