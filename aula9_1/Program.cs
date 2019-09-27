@@ -10,8 +10,6 @@ namespace aula9_1 {
             System.Console.WriteLine ("Digite uma porcentagem:");
             double porcentagem = double.Parse (Console.ReadLine ());
 
-            // Desconto (valor,porcentagem);
-
             System.Console.WriteLine("Valor a ser pago: R$" + Desconto (valor,porcentagem));
         }
 
@@ -24,7 +22,7 @@ namespace aula9_1 {
         static double Desconto (double val, double por) {
             double desconto;
 
-            desconto = val - (val / por);
+            desconto = val - (val * (por / 100));
 
             return desconto;
 
