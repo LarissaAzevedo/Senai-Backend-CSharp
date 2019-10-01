@@ -1,4 +1,5 @@
 ﻿using System;
+using aula12_2.Controller;
 
 namespace aula12_2
 {
@@ -6,7 +7,11 @@ namespace aula12_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CelularController celular = new CelularController();
+
+            celular.LigarCelular();
+
+            celular.MexerNoCelular();
         }
     }
 }
