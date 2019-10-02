@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\bin\Debug\netcoreapp2.2\aula13_desafio.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\bin\Debug\netcoreapp2.2\aula13_desafio.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\bin\Debug\netcoreapp2.2\aula13_desafio.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\bin\Debug\netcoreapp2.2\aula13_desafio.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\bin\Debug\netcoreapp2.2\aula13_desafio.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\obj\Debug\netcoreapp2.2\aula13_desafio.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\obj\Debug\netcoreapp2.2\aula13_desafio.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\obj\Debug\netcoreapp2.2\aula13_desafio.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\obj\Debug\netcoreapp2.2\aula13_desafio.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\obj\Debug\netcoreapp2.2\aula13_desafio.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\aula13_desafio\obj\Debug\netcoreapp2.2\aula13_desafio.pdb
